@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Uygar Uğurlu — a front-end & back-end web application developer.
+### 👋 Hi there, I'm Uygar Uğurlu — a front-end & back-end web application developer. ###
 - 👀 I am likes to create modern, minimalist, flat interfaces and works in his projects. Backend oriented freelance developer using PHP, Next & Nuxt.JS, Laravel & CodeIgniter frameworks. My favourite stack is <a href="https://tailwindcss.com/" target="_blank">Tailwind.</a></br>
 - 📫 How to reach me:</br>
 • Web: <a href="https://uygarugurlu.com.tr" target="_blank">uygarugurlu.com.tr</a></br>
