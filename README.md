@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uygarugurlu&label=Profile%20views&color=949494&style=plastic" alt="uygarugurlu" /> </p>
 
--
-
 - 👨‍💻 My personal website [https://uygarugurlu.com.tr](https://uygarugurlu.com.tr)
 
 - 💬 Ask me about **PHP & loneliness**
