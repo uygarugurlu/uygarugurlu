@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uygar Uğurlu</h1>
-<h3 align="center">a front-end & back-end web application developer.</h3>
+<h3 align="center">A front-end & back-end web application developer.</h3>
 
 - 👨‍💻 My personal website [https://uygarugurlu.com.tr](https://uygarugurlu.com.tr)
 
