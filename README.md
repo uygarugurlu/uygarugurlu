@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uygar Uğurlu</h1>
 <h3 align="center">A front-end & back-end web application developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uygarugurlu&label=Profile%20views&color=949494&style=plastic" alt="uygarugurlu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uygarugurlu&label=Profile%20views&color=949494&style=plastic" alt="uygarugurlu" /> </p>
 
 - 👨‍💻 My personal website [https://uygarugurlu.com.tr](https://uygarugurlu.com.tr)
 
