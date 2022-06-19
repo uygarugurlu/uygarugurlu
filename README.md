@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP & loneliness**
 
-- 📫 How to reach me **me@uygarugurlu.com.tr**
+- 📫 How to reach me **[mailto:uygar@dijital.me](uygar@dijital.me)**
 
 - 📄 Know about my experiences [https://github.com/uygarugurlu](https://github.com/uygarugurlu)
 
